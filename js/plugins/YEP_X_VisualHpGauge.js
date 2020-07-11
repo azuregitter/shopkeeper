@@ -346,7 +346,7 @@ Game_BattlerBase.prototype.die = function() {
   if (eval(Yanfly.Param.VHGDefeatFirst)) {
     if (!$gameSystem.showHpGaugeEnemy(this._enemyId)) this._noHpGauge = true;
   }
-  $gameSystem.addHpGaugeEnemy(this._enemyId);
+  //$gameSystem.addHpGaugeEnemy(this._enemyId);
 };
 
 //=============================================================================
