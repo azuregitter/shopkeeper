@@ -25,7 +25,7 @@ null,
 {"id":23,"expanded":true,"name":"Lilac City - Guild Inside","order":47,"parentId":28,"scrollX":1404,"scrollY":819.4285714285713},
 {"id":24,"expanded":true,"name":"Lilac City - Port","order":49,"parentId":18,"scrollX":1081.3333333333333,"scrollY":962.6666666666666},
 {"id":25,"expanded":true,"name":"Amethyst Throat Base","order":85,"parentId":21,"scrollX":1490.6666666666667,"scrollY":1434.6666666666667},
-{"id":26,"expanded":false,"name":"Road to Nildam","order":86,"parentId":21,"scrollX":1092,"scrollY":637.3333333333334},
+{"id":26,"expanded":false,"name":"Road to Nildam","order":86,"parentId":21,"scrollX":1786.909090909091,"scrollY":1042.909090909091},
 {"id":27,"expanded":false,"name":"Lilac City - Shops","order":50,"parentId":18,"scrollX":1174.6666666666667,"scrollY":1618.6666666666667},
 {"id":28,"expanded":true,"name":"Lilac City - Guild","order":46,"parentId":18,"scrollX":2457,"scrollY":1434},
 {"id":29,"expanded":false,"name":"Lilac City - Smith Shop","order":51,"parentId":27,"scrollX":982.8,"scrollY":573.6},
@@ -86,5 +86,6 @@ null,
 {"id":84,"expanded":true,"name":"Lilac City - Guild","order":81,"parentId":65,"scrollX":1018.8,"scrollY":1596},
 {"id":85,"expanded":true,"name":"Lilac City - Shops","order":82,"parentId":65,"scrollX":1174.6666666666667,"scrollY":1313.3333333333333},
 {"id":86,"expanded":false,"name":"ENDING","order":83,"parentId":65,"scrollX":973.1999999999999,"scrollY":576},
-{"id":87,"expanded":true,"name":"Amethyst Throat","order":87,"parentId":21,"scrollX":1081.3333333333333,"scrollY":1424}
+{"id":87,"expanded":true,"name":"Amethyst Throat","order":87,"parentId":21,"scrollX":1081.3333333333333,"scrollY":1424},
+{"id":88,"expanded":false,"name":"Forest","order":88,"parentId":0,"scrollX":1786.909090909091,"scrollY":1042.909090909091}
 ]
